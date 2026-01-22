@@ -1,0 +1,5 @@
+{
+  "name": "Venice Chronicles",
+  "description": "An AI RPG style story generator with functioning map, items, and memory.",
+  "requestFramePermissions": []
+}
